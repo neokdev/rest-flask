@@ -1,0 +1,6 @@
+__pycache__
+.vscode
+Pipfile.lock
+app.pyc
+db.sqlite
+settings.json
