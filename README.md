@@ -5,11 +5,11 @@
 
 ```bash
 # Install environment
-sudo pip3 install pipenv
-pipenv shell
+$ sudo pip3 install pipenv
+$ pipenv shell
 
 # Install dependencies
-sudo pipenv install flask flask-sqlalchemy flask-marshmallow marshmallow-sqlalchemy
+$ sudo pipenv install flask flask-sqlalchemy flask-marshmallow marshmallow-sqlalchemy
 
 # Create DB
 $ python3
@@ -18,7 +18,7 @@ $ python3
 >> exit()
 
 # Run Server (http://localhst:5000)
-python3 app.py
+$ python3 app.py
 ```
 
 ## Endpoints
